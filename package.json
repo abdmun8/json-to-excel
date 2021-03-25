@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Abdul Munim",
   "license": "ISC",
   "dependencies": {
     "excel4node": "^1.7.2"
